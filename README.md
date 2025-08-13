@@ -1,7 +1,9 @@
 ![Version](https://img.shields.io/badge/version-0.1-purple) ![GitHub License](https://img.shields.io/github/license/uncertainluei/BaldiClassic-GptntBaldi)
 ![BBiEaL version](https://img.shields.io/badge/bbieal-1.4.3-69C12E?color=green) ![BepInEx version](https://img.shields.io/badge/bepinex-5.4.23-69C12E?color=yellow&link=https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3)
 
-Ever wished an AI made changes to your [Baldi's Basics Classic](https://basically-games.itch.io/baldis-basics) gameplay? No? Due to the noteriety of AI models and *those who use it to make entire mods*, this mod is instead made by a human replicating the changes the AI would've tried to make.
+Ever wished an AI made changes to your [Baldi's Basics Classic](https://basically-games.itch.io/baldis-basics) gameplay? No?
+
+Due to the noteriety of AI models and *those who use it to make entire mods*, this mod is instead made by a human replicating the changes the AI would've tried to make.
 
 # Changes
 
