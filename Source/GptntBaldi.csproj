@@ -31,8 +31,8 @@
 		<Reference Include="Assembly-CSharp">
 			<HintPath>../Dependencies/Assembly-CSharp.dll</HintPath>
 		</Reference>
-		<Reference Include="Rewired.Core">
-			<HintPath>../Dependencies/Rewired.Core.dll</HintPath>
+		<Reference Include="Rewired_Core">
+			<HintPath>../Dependencies/Rewired_Core.dll</HintPath>
 		</Reference>
 		<Reference Include="UnityEngine.UI">
 			<HintPath>../Dependencies/UnityEngine.UI.dll</HintPath>
